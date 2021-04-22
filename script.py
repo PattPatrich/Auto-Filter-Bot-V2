@@ -22,7 +22,7 @@ Contact on @TroJanzSupport📢
 <b> @Patts_Films</b>🎥 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
+    ABOUT_MSG = """⭕️<b>My Name : Patt's Helper RoBot</b>
     
 ⭕️<b>Creater :</b> @TroJanzHEX
 
