@@ -3,7 +3,7 @@ class script(object):
 
     START_MSG = """ <b>Hi 🙋‍♀️ {}
 
-I'm FC™ HELPER :D , 
+I'm Patt's HELPER :D , 
 Not available for other groups... Sorry 🥺
 
 
